@@ -1,5 +1,24 @@
-# Scan network only
-sudo python3 hydra.py -i eth0 --scan
+# HYDRA v2.0
 
-# Attack specific target
-sudo python3 hydra.py -i eth0 --target 192.168.1.100
+## Mobile Network Security Testing Framework
+
+Professional 4G/5G network security assessment tool for authorized testing.
+
+## Features
+
+- ARP spoofing
+- DNS spoofing
+- Traffic analysis
+- Credential harvesting
+- Cookie extraction
+- Device discovery
+- Phishing server
+- JSON export
+- Real-time monitoring
+
+## Installation
+
+```bash
+
+pip install -r requirements.txt
+sudo python3 hydra.py -i eth0
