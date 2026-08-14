@@ -1,4 +1,4 @@
-# HYDRA v2.0
+# HYDRA v3.0
 
 ## Mobile Network Security Testing Framework
 
